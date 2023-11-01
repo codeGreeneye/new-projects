@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
   }
+  body{
+   background-color: rgb(107, 182, 107);
+  }
   h1,
   h2,
   h3,
